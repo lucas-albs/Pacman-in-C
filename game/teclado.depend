@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1511870591 source:c:\users\daeln\desktop\17-11-28 ling prog game\30-08-17 ling prog game\game\teclado.c
+	"teclado.h"
+
+1508457713 c:\users\daeln\desktop\17-11-28 ling prog game\30-08-17 ling prog game\game\teclado.h
+	<allegro.h>
+
+1513080818 source:c:\users\daeln\desktop\17-11-28 ling prog game\30-08-17 ling prog game\game\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"teclado.h"
+	<stdio.h>
+	<allegro.h>
+

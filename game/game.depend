@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1509408601 source:c:\users\lucas\desktop\atalhos\trabalhos, exercícios, etc\trabalhos\linguagem de programação\game\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"teclado.h"
+
+1508461313 c:\users\lucas\desktop\atalhos\trabalhos, exercícios, etc\trabalhos\linguagem de programação\game\teclado.h
+	<allegro.h>
+
+1508461958 source:c:\users\lucas\desktop\atalhos\trabalhos, exercícios, etc\trabalhos\linguagem de programação\game\teclado.c
+	"teclado.h"
+
+1508973899 source:c:\users\lucas\desktop\atalhos\trabalhos, exercícios, etc\trabalhos\linguagem de programação\game1\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"teclado.h"
+
+1508461313 c:\users\lucas\desktop\atalhos\trabalhos, exercícios, etc\trabalhos\linguagem de programação\game1\teclado.h
+	<allegro.h>
+
+1508461958 source:c:\users\lucas\desktop\atalhos\trabalhos, exercícios, etc\trabalhos\linguagem de programação\game1\teclado.c
+	"teclado.h"
+
+1511874309 source:c:\users\daeln\desktop\30-08-17 ling prog game\game\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"teclado.h"
+	<stdio.h>
+	<allegro.h>
+
+1508457713 c:\users\daeln\desktop\30-08-17 ling prog game\game\teclado.h
+	<allegro.h>
+
+1511870591 source:c:\users\daeln\desktop\30-08-17 ling prog game\game\teclado.c
+	"teclado.h"
+
+1513081164 source:c:\users\daeln\desktop\17-11-28 ling prog game\30-08-17 ling prog game\game\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"teclado.h"
+	<stdio.h>
+	<allegro.h>
+
+1508457713 c:\users\daeln\desktop\17-11-28 ling prog game\30-08-17 ling prog game\game\teclado.h
+	<allegro.h>
+
+1511870591 source:c:\users\daeln\desktop\17-11-28 ling prog game\30-08-17 ling prog game\game\teclado.c
+	"teclado.h"
+
+1511874191 source:c:\users\lucas\desktop\17-12-12 ling prog game\game\teclado.c
+	"teclado.h"
+
+1508461313 c:\users\lucas\desktop\17-12-12 ling prog game\game\teclado.h
+	<allegro.h>
+
